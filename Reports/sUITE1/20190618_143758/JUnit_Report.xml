@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="sUITE1" time="7" tests="1" failures="0" errors="0">
+   <testsuite name="sUITE1" tests="1" failures="0" errors="0" time="7" timestamp="2019-06-18 14:38:00" hostname="slk - WSLKCMP1FTR1-03.SLKSOFT.COM" id="Test Suites/sUITE1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\sUITE1\\20190618_143758"/>
+         <property name="logFiles" value="C:\\Users\\slk\\Katalon Studio\\Demo\\Reports\\sUITE1\\20190618_143758\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLKCMP1FTR1-03.SLKSOFT.COM"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.5.1"/>
+         <property name="browser" value="Chrome 74.0.3729.169"/>
+         <property name="hostAddress" value="10.60.24.104"/>
+         <property name="sessionId" value="8688300ddd239f1cf23168b74be01fe3"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC1" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[2019-06-18 14:38:00 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+2019-06-18 14:38:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2019-06-18 14:38:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-06-18 14:38:04 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://executeautomation.com/demosite/Login.html' successfully
+
+2019-06-18 14:38:06 - [MESSAGE][PASSED] - Navigate to 'http://executeautomation.com/demosite/Login.html' successfully
+
+2019-06-18 14:38:06 - [TEST_STEP][PASSED] - setText: Text 'aDMIN' is set on object 'Object Repository/Page_Execute Automation/input_Login_UserName'
+
+2019-06-18 14:38:06 - [MESSAGE][PASSED] - Text 'aDMIN' is set on object 'Object Repository/Page_Execute Automation/input_Login_UserName'
+
+2019-06-18 14:38:06 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2019-06-18 14:38:06 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2019-06-18 14:38:06 - [TEST_STEP][PASSED] - setText: Text 'mANAGER' is set on object 'Object Repository/Page_Execute Automation/input_Login_Password'
+
+2019-06-18 14:38:06 - [MESSAGE][PASSED] - Text 'mANAGER' is set on object 'Object Repository/Page_Execute Automation/input_Login_Password'
+
+2019-06-18 14:38:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Execute Automation/input_Login_Login' is clicked on
+
+2019-06-18 14:38:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Execute Automation/input_Login_Login' is clicked on
+
+2019-06-18 14:38:06 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value '1' are selected in object 'Object Repository/Page_Execute Automation/select_SelectMr.Ms.'  using regular expression
+
+2019-06-18 14:38:06 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Execute Automation/select_SelectMr.Ms.'  using regular expression
+
+2019-06-18 14:38:06 - [TEST_STEP][PASSED] - setText: Text 'SAD' is set on object 'Object Repository/Page_Execute Automation/input_Initial_Initial'
+
+2019-06-18 14:38:07 - [MESSAGE][PASSED] - Text 'SAD' is set on object 'Object Repository/Page_Execute Automation/input_Initial_Initial'
+
+2019-06-18 14:38:07 - [TEST_STEP][PASSED] - setText: Text 'ASDF' is set on object 'Object Repository/Page_Execute Automation/input__FirstName'
+
+2019-06-18 14:38:07 - [MESSAGE][PASSED] - Text 'ASDF' is set on object 'Object Repository/Page_Execute Automation/input__FirstName'
+
+2019-06-18 14:38:07 - [TEST_STEP][PASSED] - setText: Text 'DSA' is set on object 'Object Repository/Page_Execute Automation/input_Middle Name_MiddleName'
+
+2019-06-18 14:38:07 - [MESSAGE][PASSED] - Text 'DSA' is set on object 'Object Repository/Page_Execute Automation/input_Middle Name_MiddleName'
+
+2019-06-18 14:38:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Execute Automation/input_EnglishHindi_Save' is clicked on
+
+2019-06-18 14:38:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Execute Automation/input_EnglishHindi_Save' is clicked on
+
+2019-06-18 14:38:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Execute Automation/span_Logout' is clicked on
+
+2019-06-18 14:38:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Execute Automation/span_Logout' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-06-18 14:38:00 - [TEST_SUITE][PASSED] - sUITE1: Test Cases/TC1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
